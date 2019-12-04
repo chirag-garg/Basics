@@ -1,0 +1,13 @@
+java+sql back end(data base)
+front end (jsp, integration,middleware,frontend aur backend integrate
+sts 3.4.9 framework
+postman API testing
+pivotal server *
+bean - variables are declared, getter setter, hashcode aur equals, contructors, tostring*
+controller - main file, project runs from here, configure bean
+service- interface(method,functions), implementation(descp. and performance of functions)//
+dao- make interface//database; extends crud repository//database connection
+application.properties- server.port//defines port//don't use 8080//used for apache tomcat//jdbc url//my SQL connection  
+spring
+
+jsp- client se request leke backend ko request bhejta hai
